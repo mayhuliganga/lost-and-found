@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Blue Water Bottle",
+      "category": "Personal items",
+      "description": "Blue Hydro Flask with a sticker of a cat on the side. Found near the vending machine.",
+      "location": "Library, 1st floor",
+      "date": "2026-11-10",
+      "finder": "Maria Santos",
+      "contact": "0917 123 4567",
+      "claimed": false
+    },
+    {
+      "id": 2,
+      "name": "Black Umbrella",
+      "category": "Personal items",
+      "description": "Folding umbrella, black, with a wooden handle.",
+      "location": "Canteen entrance",
+      "date": "2026-11-11",
+      "finder": "Juan Dela Cruz",
+      "contact": "juan@email.com",
+      "claimed": false
+    },
+    {
+      "id": 3,
+      "name": "Scientific Calculator",
+      "category": "School supplies",
+      "description": "Casio fx-991ES with the initials 'R.A.' written at the back.",
+      "location": "Room 204",
+      "date": "2026-11-12",
+      "finder": "Prof. Reyes",
+      "contact": "Faculty room",
+      "claimed": true
+    },
+    {
+      "id": 4,
+      "name": "Student ID",
+      "category": "IDs and cards",
+      "description": "Student ID of a BSIT student. Please describe the name to claim.",
+      "location": "Gym bleachers",
+      "date": "2026-11-13",
+      "finder": "Ana Cruz",
+      "contact": "0920 555 8899",
+      "claimed": false
+    },
+    {
+      "id": 5,
+      "name": "Wireless Earbuds",
+      "category": "Gadgets",
+      "description": "White earbuds in a charging case with a green silicone cover.",
+      "location": "Covered court",
+      "date": "2026-11-14",
+      "finder": "Mark Lim",
+      "contact": "Guard house",
+      "claimed": false
+    }
+  ]
+}
